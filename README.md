@@ -9,6 +9,6 @@ Open Redirect Tool/Fuzzer
 
 ## Usage
 ```
-   >>> python3 open-re.py -u [URL] -lp [payload]
-   >>> python3 open-re.py -lu [file] -lp [payloads]
+   >>> python3 fuzzer.py -u [URL] -lp [payload]
+   >>> python3 fuzzer.py -lu [file] -lp [payloads]
 ```
